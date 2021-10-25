@@ -1,0 +1,22 @@
+---
+title: "forFrank"
+author: "Stephanie Hicks"
+date: "10/24/2021"
+output:
+  html_document:
+    css: "courses.css"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Intro
+
+Demonstrating how to include a CSS file 
+
+:::keyideas
+
+Letters in the box
+
+:::
